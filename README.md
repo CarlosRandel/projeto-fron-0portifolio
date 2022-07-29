@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Link Netlify
 
-https://tranquil-horse-e50207.netlify.app/
+https://dashbord-app.netlify.app/
 
 ## Learn More
 
